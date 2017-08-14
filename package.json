@@ -1,0 +1,21 @@
+{
+  "name": "ttstest2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "*",
+    "grunt-csv2json": "^0.1.5",
+    "google-tts-api": "0.0.1"
+  },
+  "devDependencies": {
+    "es6-promise": "^4.1.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-exec": "^3.0.0"
+  }
+}
